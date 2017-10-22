@@ -1,0 +1,11 @@
+"","GO.ID","Term","Annotated","Significant","Expected","fisher","elim","FDR_fisher","FDR_elim"
+"1","GO:0030049","muscle filament sliding",38,17,2.14,"4.7e-12","4.7e-12",4.7e-11,4.7e-11
+"2","GO:0019730","antimicrobial humoral response",75,16,4.22,"3.3e-06","3.3e-06",1.1e-05,1.65e-05
+"3","GO:0045214","sarcomere organization",43,11,2.42,"1.9e-05","1.9e-05",3.8e-05,6.33333333333333e-05
+"4","GO:0030240","skeletal muscle thin filament assembly",5,4,0.28,"4.8e-05","4.8e-05",6.85714285714286e-05,9.6e-05
+"5","GO:0090131","mesenchyme migration",5,4,0.28,"4.8e-05","4.8e-05",6.85714285714286e-05,9.6e-05
+"6","GO:0002026","regulation of the force of heart contrac...",27,8,1.52,"8.3e-05","8.3e-05",0.00010375,0.000138333333333333
+"7","GO:0072277","metanephric glomerular capillary formati...",3,3,0.17,"0.00018","0.00018",2e-04,0.00024
+"8","GO:0055003","cardiac myofibril assembly",17,6,0.96,"0.00023","0.00023",0.00023,0.00024
+"9","GO:0060048","cardiac muscle contraction",123,22,6.93,"1.3e-06","0.00023",6.5e-06,0.00024
+"10","GO:0030198","extracellular matrix organization",306,37,17.23,"9.6e-06","0.00024",2.4e-05,0.00024
